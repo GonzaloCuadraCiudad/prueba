@@ -6,6 +6,7 @@ public class paragithub {
 System.out.println("Hola prueba,modificacion");
 System.out.println("Y un añadido");
 System.out.println("Y un añadido 3");
+System.out.println("Añado hoy viernes otra");
 	}
 
 }
